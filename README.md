@@ -139,7 +139,7 @@ My Current Workstation Specification </h2>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FahimFBA" alt="FahimFBA" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahria7k" alt="shahria7k" /></p>
 
 
 
@@ -158,20 +158,20 @@ My Current Workstation Specification </h2>
 
 
 - :snowflake: If you want to check my profile of CP related various Online Judges, then: <br>
-:star: [Codeforces](https://codeforces.com/profile/FahimFBA) <br>
-:star: [Toph](https://toph.co/u/FahimFBA) <br>
-:star: [HackerRank](https://www.hackerrank.com/FahimFBA) <br>
-:star: [HackerEarth](https://www.hackerearth.com/@md.fahim3) <br>
+:star: [Codeforces](https://codeforces.com/profile/shahria7k) <br>
+:star: [Toph](https://toph.co/u/shahria7k) <br>
+:star: [HackerRank](https://www.hackerrank.com/shahria7k) <br>
+:star: [HackerEarth](https://www.hackerearth.com/@shahria7k) <br>
 :star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
-:star: [Dimik OJ](https://dimikoj.com/) <br>
-:star: [Codechef](https://www.codechef.com/users/fahimfba)  <br>
-:star: [CodingBat](https://codingbat.com/) <br>
+:star: [Dimik OJ](https://dimikoj.com/shahria7k) <br>
+:star: [Codechef](https://www.codechef.com/users/shahria7k)  <br>
+:star: [CodingBat](https://codingbat.com/shahria7k) <br>
 :star: [Leetcode](https://leetcode.com/FBA/) <br>
-:star: [SPOJ](https://www.spoj.com/users/fahimfba/) <br>
-:star: [LightOJ](http://lightoj.com/) <br>
-:star: [Timus](https://acm.timus.ru/author.aspx?id=302862)<br>
-:star: [AMT](http://orac.amt.edu.au/)<br>
-:star: [UVa](http://onlinejudge.org/)<br>
+:star: [SPOJ](https://www.spoj.com/users/shahria7k/) <br>
+:star: [LightOJ](http://lightoj.com/shahria7k) <br>
+:star: [Timus](https://acm.timus.ru/author.aspx?id=shahria7k)<br>
+:star: [AMT](http://orac.amt.edu.au/shahria7k)<br>
+:star: [UVa](http://onlinejudge.org/shahria7k)<br>
 <i>Many more are coming soon...<i> :clap:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -181,7 +181,7 @@ My Current Workstation Specification </h2>
 <div align="center">
 	
 
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&layout=compact&theme=synthwave&v=2)
+![Shahriar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shahria7k&layout=compact&theme=synthwave&v=2)
 
 
 </div>
@@ -189,8 +189,8 @@ My Current Workstation Specification </h2>
 
 <p align="center">
 
-<a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
+<a href="https://github.com/shahria7k/github-readme-twitter">
+<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=shahria7kA&layout=wide&show_reply=off&show_retweet=off" />
 </a>
 
 </p>
