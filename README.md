@@ -183,7 +183,7 @@ My Current Workstation Specification </h2>
 
 ![Shahriar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shahria7k&layout=compact&theme=synthwave&v=2)
 
-
+<figure><embed src="https://wakatime.com/share/@shahria7k/6818804e-ba5b-4425-90a0-41abf04d2487.svg"></embed></figure>
 </div>
 
 
