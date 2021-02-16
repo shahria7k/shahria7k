@@ -1,7 +1,7 @@
 ### Hi there 👋
-<h2 align="center"> Hi 👋 , I'm Md. Fahim Bin Amin <br/></h2> 
-<h3 align="center">Also known as "FBA" to other people. <br> <br>
-  <a href="https://github.com/FahimFBA" target="_blank">
+<h2 align="center"> Hi 👋 , I'm Shahria Jaman Khan <br/></h2> 
+
+  <a href="https://github.com/shahria7k" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/shahria7k?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
   <a href="https://github.com/shahria7k" target="_blank">
