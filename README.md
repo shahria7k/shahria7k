@@ -14,7 +14,7 @@
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=FahimFBA&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=shahria7k&theme=gruvbox"/>
   </a>
 </p>
 </details>
@@ -25,9 +25,9 @@
 <details>
 	 <summary>Github Stats of me 📈:</summary>
 <div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=FahimFBA&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shahria7k&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
 	<br>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimFBA&layout=compact&theme=radical" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahria7k&layout=compact&theme=radical" width="350" height="250" ></a>
 
 </div>
 </details>
@@ -133,7 +133,7 @@ My Current Workstation Specification </h2>
 
 <h2>Connect with me!</h2>
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fahimfba/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Fahim_FBA/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/iptu.fba)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shahria7k/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/shahria7k/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/shahria7k)
 <br> <br>
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
