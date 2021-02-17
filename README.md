@@ -9,7 +9,7 @@
   </a>
   </h3>
   
-
+<!--
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
@@ -194,7 +194,7 @@ My Current Workstation Specification </h2>
 </a>
 
 </p>
-<!--
+
 **shahria7k/shahria7k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
