@@ -8,8 +8,10 @@
     <img src="https://komarev.com/ghpvc/?username=shahria7k&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>	
-          <img align="center" src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" class="text-center width-fit" alt="Joined GitHub!">
+  	<div align="center">
+      	  <img align="center" src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" class="text-center width-fit" alt="Joined GitHub!">
           <time align="center">on July 13, 2018</time>
+	</div>
 
 <!--
 <details align="center">
