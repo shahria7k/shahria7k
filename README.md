@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=shahria7k&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>
-  
+  <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg"/>
 <!--
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
