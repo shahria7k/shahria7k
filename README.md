@@ -9,7 +9,7 @@
   </a>
   </h3>	
   	<div align="center">
-      	  <imgsrc="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" class="text-center width-fit" alt="Joined GitHub!">
+      	  <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" class="text-center width-fit" alt="Joined GitHub!">
           </div>
 	<div align="center">
 	  <time align="center" color="#4DC71F">on July 13, 2018</time>
