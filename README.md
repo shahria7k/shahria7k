@@ -8,7 +8,16 @@
     <img src="https://komarev.com/ghpvc/?username=shahria7k&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>
-  <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg"/>
+   <div class="Box p-3">
+        <div class="text-center px-6">
+          <picture><img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" class="text-center width-fit" alt="Joined GitHub!"></picture>
+          <div class="mt-n3">
+            <h4 class="color-text-success">Joined GitHub</h4>
+            <a class="f6 color-text-tertiary Link--muted no-wrap" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:41187226,&quot;target&quot;:&quot;TIMELINE_DATE_LINK&quot;,&quot;user_id&quot;:41187226,&quot;originating_url&quot;:&quot;https://github.com/shahria7k?tab=overview&amp;from=2018-12-01&amp;to=2018-12-31&quot;}}" data-hydro-click-hmac="52eeb6622b18fcc372e7f74f50f4227f4d4babd8d4c12e5f9df8470fa6fb7a7d" href="/shahria7k?tab=overview&amp;from=2018-07-01&amp;to=2018-07-31">
+              <time class="d-inline-block mb-2">on July 13, 2018</time>
+</a>          </div>
+        </div>
+      </div>
 <!--
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
