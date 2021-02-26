@@ -7,9 +7,10 @@
   <a href="https://github.com/shahria7k" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=shahria7k&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
-  </h3>
+  </h3>	<div align="center">
           <picture><img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" class="text-center width-fit" alt="Joined GitHub!"></picture>
           <time>on July 13, 2018</time>
+	  </div>
 <!--
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
