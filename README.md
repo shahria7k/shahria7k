@@ -12,7 +12,7 @@
       	  <imgsrc="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" class="text-center width-fit" alt="Joined GitHub!">
           </div>
 	<div align="center">
-	  <time align="center">on July 13, 2018</time>
+	  <time align="center" color="#4DC71F">on July 13, 2018</time>
 	 </div>
 
 <!--
