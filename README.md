@@ -8,11 +8,8 @@
     <img src="https://komarev.com/ghpvc/?username=shahria7k&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>
-   <div class="Box p-3">
-        <div style="backgoround: red;">
           <picture><img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" class="text-center width-fit" alt="Joined GitHub!"></picture>
-          <time class="d-inline-block mb-2">on July 13, 2018</time>
-      </div>
+          <time>on July 13, 2018</time>
 <!--
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
