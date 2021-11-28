@@ -16,7 +16,7 @@
 	  <time align="center" color="#4DC71F">on July 13, 2018</time>
 	 </div>
 
-<!--
+
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
@@ -214,4 +214,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
