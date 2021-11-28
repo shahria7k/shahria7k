@@ -19,7 +19,7 @@
 
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=shahria7k&theme=gruvbox"/>
   </a>
@@ -215,3 +215,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ -->
