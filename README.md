@@ -21,10 +21,6 @@
 
 - ⚡ Fun fact **I can not C.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/shahria7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shahria7k" height="30" width="40" /></a>
@@ -50,9 +46,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shahria7k"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shahria7k" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahria7k&show_icons=true&theme=dark&locale=en&layout=compact" alt="shahria7k" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahria7k&show_icons=true&locale=en&layout=compact" alt="shahria7k" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahria7k&show_icons=true&theme=dark&locale=en" alt="shahria7k" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahria7k&show_icons=true&locale=en" alt="shahria7k" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahria7k&" alt="shahria7k" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahria7k&theme=dark" alt="shahria7k" /></p>
