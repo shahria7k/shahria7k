@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahria7k" alt="shahria7k" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shahria7k" target="blank"><img src="https://img.shields.io/twitter/follow/shahria7k?logo=twitter&style=for-the-badge" alt="shahria7k" /></a> </p>
+<p align="left"> <a href="https://twitter.com/khansnode" target="blank"><img src="https://img.shields.io/twitter/follow/khansnode?logo=twitter&style=for-the-badge" alt="https://twitter.com/khansnode" /></a> </p>
 
 - 🔭 I’m currently working on [DSA Enthusiast](https://dsaenthusiast.codes)
 
