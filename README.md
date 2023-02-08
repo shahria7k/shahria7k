@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahria Jaman Khan</h1>
 <h3 align="center">A passionate full-stack developer from Dhaka, Bangladesh</h3>
 
-[![wakatime](https://wakatime.com/badge/user/5e23cad1-12f9-4ef0-9f3c-6b1113e92dc0.svg)](https://wakatime.com/@5e23cad1-12f9-4ef0-9f3c-6b1113e92dc)
+[![wakatime](https://wakatime.com/badge/user/5e23cad1-12f9-4ef0-9f3c-6b1113e92dc0.svg)](https://wakatime.com/@5e23cad1-12f9-4ef0-9f3c-6b1113e92dc0)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahria7k" alt="shahria7k" /></a> </p>
 
