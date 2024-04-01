@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/khansnode" target="blank"><img src="https://img.shields.io/twitter/follow/khansnode?logo=twitter&style=for-the-badge" alt="https://twitter.com/khansnode" /></a> </p>
 
-- 🔭 I’m currently working on [DSA Enthusiast](https://dsaenthusiast.codes)
+- 🔭 I’m currently building a business Operating System at [Mindquest Studio](https://mindquest.studio)
 
 - 🌱 I’m currently learning **Next JS, Tensorflow JS etc.**
 
