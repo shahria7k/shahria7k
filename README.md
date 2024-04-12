@@ -7,38 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/khansnode" target="blank"><img src="https://img.shields.io/twitter/follow/khansnode?logo=twitter&style=for-the-badge" alt="https://twitter.com/khansnode" /></a> </p>
 
-- 🔭 I’m currently building a Business Operating System(Integrated business management solution-BOS) at [Mindquest Studio](https://mindquest.studio)
+🚀 Founder of MindQuest | Tech Innovator | Problem Solver 🌟
 
-- 🌱 I’m currently learning **Next JS, Tensorflow JS etc.**
+👋 Hey there! I'm Shahria Jaman Khan, the founder of MindQuest, where we're on a mission to harness the power of technology to solve real-world problems and make a positive impact on people's lives.
 
-- 👨‍💻 All of my projects are available at [https://github.com/shahria7k](https://github.com/shahria7k)
+🔧 Currently, I'm leading a talented team dedicated to developing cutting-edge solutions that streamline daily routines and enhance productivity. From revolutionizing communication to simplifying organization, we're always exploring new ways to leverage technology for good.
 
-- 📝 I regularly write articles on [https://dev.to/imsj7k](https://dev.to/imsj7k)
+🌱 Passionate about innovation, I'm constantly learning and pushing the boundaries of what's possible. Whether it's diving into the latest trends in AI or experimenting with emerging technologies, I thrive on the excitement of discovery.
 
-- 💬 Ask me about **react, javascript**
+🤝 I'm always open to collaboration and connecting with fellow tech enthusiasts who share our vision for using technology to make a difference. Let's build something amazing together!
 
-- 📫 How to reach me **imsj7k@gmail.com**
+💬 Feel free to reach out and say hello! Whether you have an idea to share or just want to chat tech, I'd love to hear from you.
 
-- ⚡ Fun fact **I can not C.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/shahria7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shahria7k" height="30" width="40" /></a>
-<a href="https://dev.to/imsj7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imsj7k" height="30" width="40" /></a>
-<a href="https://twitter.com/shahria7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahria7k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahria7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahria7k" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12213782/shahria-jaman-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12213782/shahria-jaman-khan" height="30" width="40" /></a>
-<a href="https://codesandbox.com/shahria7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shahria7k" height="30" width="40" /></a>
-<a href="https://kaggle.com/shahria7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shahria7k" height="30" width="40" /></a>
-<a href="https://fb.com/khansnode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahriar7k" height="30" width="40" /></a>
-<a href="https://instagram.com/khansnode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahria7k" height="30" width="40" /></a>
-<a href="https://dribbble.com/imsj7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="imsj7k" height="30" width="40" /></a>
-<a href="https://www.behance.net/shahriakhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shahriakhan" height="30" width="40" /></a>
-<a href="https://medium.com/@imsj7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imsj7k" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shahria jaman khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahria jaman khan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/skhan468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skhan468" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shahriar7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shahriar7k" height="30" width="40" /></a>
-</p>
 
 ### GitHub Stats
 ![](https://raw.githubusercontent.com/shahria7k/shahria7k/main/profile-summary-card-output/dracula/3-stats.svg)
