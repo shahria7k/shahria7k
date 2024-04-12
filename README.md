@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shahria Jaman Khan</h1>
 <h3 align="center">🚀 Founder of MindQuest | Tech Innovator | Problem Solver 🌟</h3>
 
-<p align="left"> <a href="https://twitter.com/khansnode" target="blank"><img src="https://img.shields.io/twitter/follow/khansnode?logo=twitter&style=for-the-badge" alt="https://twitter.com/khansnode" /></a> </p>
-<p align="left"> <a href="https://khansnode.com" target="blank"><img src="https://img.shields.io/twitter/follow/khansnode?logo=twitter&style=for-the-badge" alt="https://khansnode.com" target="_blank"/></a> </p>
+<p align="left"> <a href="https://twitter.com/khansnode" target="blank"><img src="https://img.shields.io/twitter/follow/khansnode?logo=twitter&style=for-the-badge" alt="https://twitter.com/khansnode" /></a>   <a href="https://khansnode.com" target="blank"><img src="https://img.shields.io/twitter/follow/khansnode?logo=twitter&style=for-the-badge" alt="https://khansnode.com" target="_blank"/></a> </p>
+
 
 
 Hey there! I'm Shahria Jaman Khan, founder of MindQuest. We're all about using tech to solve real-world problems and make life easier.
