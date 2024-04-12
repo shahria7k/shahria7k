@@ -2,8 +2,6 @@
 <h3 align="center">🚀 Founder of MindQuest | Tech Innovator | Problem Solver 🌟</h3>
 
 
-<h3 align="center">🚀 Founder of MindQuest | Tech Innovator | Problem Solver 🌟</h3>
-
 <p align="left"> <a href="https://twitter.com/khansnode" target="blank"><img src="https://img.shields.io/twitter/follow/khansnode?logo=twitter&style=for-the-badge" alt="https://twitter.com/khansnode" /></a>  
   
 
