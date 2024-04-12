@@ -21,6 +21,4 @@ Hey there! I'm Shahria Jaman Khan, founder of MindQuest. We're all about using t
 
  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahria7k&show_icons=true&theme=dark&locale=en&layout=compact" alt="shahria7k" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahria7k&show_icons=true&theme=dark&locale=en" alt="shahria7k" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahria7k&theme=dark" alt="shahria7k" /></p>
