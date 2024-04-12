@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Founder of MindQuest | Tech Innovator | Problem Solver 🌟</h3>
 
 <p align="left"> <a href="https://twitter.com/khansnode" target="blank"><img src="https://img.shields.io/twitter/follow/khansnode?logo=twitter&style=for-the-badge" alt="https://twitter.com/khansnode" /></a>  
- <a href="https://khansnode.com" target="_blank"><img src="https://img.shields.io/twitter/follow/khansnode?logo=twitter&style=for-the-badge](https://img.shields.io/badge/visit-Khansnode?style=flat&logo=esri&label=Khansnode.com&link=https%3A%2F%2Fkhansnode.com" alt="https://khansnode.com" /></a>  
+ <a href="https://khansnode.com" target="_blank"><img src="https://img.shields.io/badge/visit-Khansnode?style=flat&logo=esri&label=Khansnode.com&link=https%3A%2F%2Fkhansnode.com" alt="https://khansnode.com" /></a>  
 
 
 </p>
