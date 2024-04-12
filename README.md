@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahria Jaman Khan</h1>
-<h3 align="center">A passionate full-stack developer from Dhaka, Bangladesh</h3>
+<h3 align="center">🚀 Founder of MindQuest | Tech Innovator | Problem Solver 🌟</h3>
 
 [![wakatime](https://wakatime.com/badge/user/5e23cad1-12f9-4ef0-9f3c-6b1113e92dc0.svg)](https://wakatime.com/@5e23cad1-12f9-4ef0-9f3c-6b1113e92dc0)
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/khansnode" target="blank"><img src="https://img.shields.io/twitter/follow/khansnode?logo=twitter&style=for-the-badge" alt="https://twitter.com/khansnode" /></a> </p>
 
-🚀 Founder of MindQuest | Tech Innovator | Problem Solver 🌟
+
 
 👋 Hey there! I'm Shahria Jaman Khan, the founder of MindQuest, where we're on a mission to harness the power of technology to solve real-world problems and make a positive impact on people's lives.
 
