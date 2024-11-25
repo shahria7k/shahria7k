@@ -21,7 +21,6 @@ But mostly, I’m a **conductor**. I handle the panic, my team handles the rest!
 
 ### A Bit About Me  
 - I love **coffee (espresso)**, **walking**, and **looking at nature**.  
-- I avoid arguments but thrive in **good relationships**.  
 - **Natural beauty**, **productivity**, and **solving people's problems** are the nutrition to my soul.  
 - My purpose? To consume as much of this nutrition as possible while appreciating and being grateful for it all.  
 
