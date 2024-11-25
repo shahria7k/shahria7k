@@ -3,7 +3,7 @@
 - **Turn vague ideas into something usable**  
 - **Build systems that run so smoothly, you won’t even know they exist**  
 
-But mostly, I’m a **conductor**. I handle the panic, my team handles the rest!
+But mostly, I’m a **stress alchemist**. I handle the panic, my team handles the rest!
 
 ---
 
