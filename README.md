@@ -1,23 +1,48 @@
 # I Do  
-- **Coding**: Turning ideas into functional, scalable software.  
-- **Product Design**: Designing solutions that users love to interact with.  
-- **System Design**: Building systems that don’t just work—they excel.  
-- **Wrangle Stress**: Turning chaos into clarity, no matter the challenge.  
-- **Handle Crisis**: Managing the unmanageable with precision and poise.  
+- **Coding**  
+- **Product Design**  
+- **System Design**  
+- **Wrangle Stress**  
+- **Handle Crisis**  
 
 But mostly, I’m a **conductor**. I panic when I’m not under stress or racing against a deadline—but that’s where I thrive. I turn that panic into progress and deliver results.  
 
 ---
 
 ### My Expertise  
-- **ERP Development**: Comprehensive systems for business process automation and optimization.  
-- **Business Process Management**: Supply chain, HRM, financial accounting, and beyond.  
-- **Tech Stack**: Node.js, React, React Native, TypeScript, MongoDB, Tailwind CSS, Figma.  
-- **Project Management**: Planning, execution, and SOP development.  
-- **Cloud & Infrastructure**: Google Cloud, Firebase, Serverless architecture, CI/CD pipelines.  
-- **Architecture**: Microservices, CLEAN architecture, system design.  
-- **Business Optimization**: Automating and refining workflows for efficiency.  
-- **Documentation**: Creating comprehensive guides and SOPs for seamless operations.  
+- ERP Development  
+- Business Process Management  
+- Supply Chain  
+- HRM  
+- Financial Accounting  
+- Node.js  
+- React  
+- React Native  
+- TypeScript  
+- MongoDB  
+- Tailwind CSS  
+- Figma  
+- Documentation  
+- SOP Development  
+- Project Management  
+- CI/CD  
+- Google Cloud  
+- Firebase  
+- Serverless Architecture  
+- Microservices  
+- CLEAN Architecture  
+- System Design  
+- Product Design  
+- Business Process Automation  
+- Business Process Optimization  
+
+---
+
+### A Bit About Me  
+- I love **coffee (espresso)**, **walking**, and **looking at nature**.  
+- I avoid arguments but thrive in **good relationships**.  
+- **Natural beauty**, **productivity**, and **solving people's problems** are the nutrition to my soul.  
+- My purpose? To consume as much of this nutrition as possible while appreciating and being grateful for it all.  
 
 ---
 
