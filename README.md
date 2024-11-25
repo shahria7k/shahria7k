@@ -1,5 +1,5 @@
 # I Do  
-- **Coding**
+- **Coding** (Because, clearly, writing code is the only thing that makes the world go round.)  
 - **Product Design** (Turning your “I don’t know what I want” into something usable, as always.)  
 - **System Design** (Building systems that work so seamlessly, you’ll forget they exist. Magic, right?)  
 - **Wrangle Stress** (I thrive under pressure—if I’m not stressed, I’m probably not doing my job right.)  
