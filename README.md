@@ -1,16 +1,16 @@
 # I Do  
 - **Write spells to keep the world running**  
-- **turn vague ideas into something usable**  
-- **build systems that run so smoothly, you won’t even know they exist**  
+- **Turn vague ideas into something usable**  
+- **Build systems that run so smoothly, you won’t even know they exist**  
 
-But mostly, I’m a **conductor**. I panic if I’m not under stress or rushing toward a deadline—but that’s where I really shine. I turn that panic into progress and somehow get things done.  
+But mostly, I’m a **conductor**. I handle the panic, my team handles the rest!
 
 ---
 
 ### My Expertise  
 - ERP Development, Business Process Management, Business Process Automation, Business Process Optimization  
 - Supply Chain, HRM, Financial Accounting  
-- Node.js, React, React Native, TypeScript, MongoDB. I speak JavaScript fluently, and it’s not as easy as it sounds
+- Node.js, React, React Native, TypeScript, MongoDB. I speak JavaScript fluently, and it’s not as easy as it sounds  
 - Tailwind CSS, Figma  
 - Documentation, SOP Development  
 - Project Management, CI/CD  
