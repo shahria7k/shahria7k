@@ -1,31 +1,29 @@
 # I Do  
-- **Coding** (Because, clearly, writing code is the only thing that makes the world go round.)  
-- **Product Design** (Turning your “I don’t know what I want” into something usable, as always.)  
-- **System Design** (Building systems that work so seamlessly, you’ll forget they exist. Magic, right?)  
-- **Wrangle Stress** (I thrive under pressure—if I’m not stressed, I’m probably not doing my job right.)  
-- **Handle Crisis** (When everything’s falling apart, I’m the one keeping it together, as usual.)
+- **Write spells to keep the world running**  
+- **turn vague ideas into something usable**  
+- **build systems that run so smoothly, you won’t even know they exist**  
 
-But mostly, I’m a **conductor**. I panic when I’m not under stress or racing against a deadline—but that’s where I thrive. I turn that panic into progress and deliver results.  
+But mostly, I’m a **conductor**. I panic if I’m not under stress or rushing toward a deadline—but that’s where I really shine. I turn that panic into progress and somehow get things done.  
 
 ---
 
 ### My Expertise  
-- ERP Development, Business Process Management, Business Process Automation, Business Process Optimization (Making processes so efficient, you’ll wonder how you ever lived without them.)  
-- Supply Chain, HRM, Financial Accounting (The “boring” stuff that somehow holds everything together. You're welcome.)  
-- Node.js, React, React Native, TypeScript, MongoDB (I speak JavaScript fluently, and it’s not as easy as it sounds.)  
-- Tailwind CSS, Figma (Designing interfaces that are actually pleasant to use—imagine that!)  
-- Documentation, SOP Development (Writing docs that even I can understand later, a rare skill, I know.)  
-- Project Management, CI/CD (Making sure everything is on track, even when it’s not. Stress is my friend.)  
-- Google Cloud, Firebase, Serverless Architecture (Taking infrastructure headaches off your plate—because no one has time for that.)  
-- Microservices, CLEAN Architecture, System Design, Product Design (Building scalable systems, because “quick fixes” only last so long.)
+- ERP Development, Business Process Management, Business Process Automation, Business Process Optimization  
+- Supply Chain, HRM, Financial Accounting  
+- Node.js, React, React Native, TypeScript, MongoDB. I speak JavaScript fluently, and it’s not as easy as it sounds
+- Tailwind CSS, Figma  
+- Documentation, SOP Development  
+- Project Management, CI/CD  
+- Google Cloud, Firebase, Serverless Architecture  
+- Microservices, CLEAN Architecture, System Design, Product Design  
 
 ---
 
 ### A Bit About Me  
-- I love **coffee (espresso)**, **walking**, and **looking at nature**. (Because sometimes, the best inspiration strikes far from the screen.)  
-- I avoid arguments but thrive in **good relationships**. (After all, why argue when you’re always right?)  
-- **Natural beauty**, **productivity**, and **solving people's problems** are the nutrition to my soul. (I’m just here to make life easier. No big deal.)  
-- My purpose? To consume as much of this nutrition as possible while appreciating and being grateful for it all. (Appreciating the little things—even when juggling a hundred tasks—keeps me grounded.)
+- I love **coffee (espresso)**, **walking**, and **looking at nature**.  
+- I avoid arguments but thrive in **good relationships**.  
+- **Natural beauty**, **productivity**, and **solving people's problems** are the nutrition to my soul.  
+- My purpose? To consume as much of this nutrition as possible while appreciating and being grateful for it all.  
 
 ---
 
