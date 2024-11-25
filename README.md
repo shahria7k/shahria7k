@@ -10,31 +10,14 @@ But mostly, I’m a **conductor**. I panic when I’m not under stress or racing
 ---
 
 ### My Expertise  
-- ERP Development  
-- Business Process Management  
-- Supply Chain  
-- HRM  
-- Financial Accounting  
-- Node.js  
-- React  
-- React Native  
-- TypeScript  
-- MongoDB  
-- Tailwind CSS  
-- Figma  
-- Documentation  
-- SOP Development  
-- Project Management  
-- CI/CD  
-- Google Cloud  
-- Firebase  
-- Serverless Architecture  
-- Microservices  
-- CLEAN Architecture  
-- System Design  
-- Product Design  
-- Business Process Automation  
-- Business Process Optimization  
+- ERP Development, Business Process Management, Business Process Automation, Business Process Optimization  
+- Supply Chain, HRM, Financial Accounting  
+- Node.js, React, React Native, TypeScript, MongoDB  
+- Tailwind CSS, Figma  
+- Documentation, SOP Development  
+- Project Management, CI/CD  
+- Google Cloud, Firebase, Serverless Architecture  
+- Microservices, CLEAN Architecture, System Design, Product Design  
 
 ---
 
